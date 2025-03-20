@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ResistorColorCode {
+class ResistorColorCode {
 
     public static int pegarValorDaCor(String cor) {
         switch (cor.toLowerCase()) {

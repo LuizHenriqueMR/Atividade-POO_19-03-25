@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DistanciaDeHamming {
+ class DistanciaDeHamming {
 
     public static void main(String[] args) {
 
